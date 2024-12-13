@@ -11,3 +11,7 @@ At the end of this process, we are left with all the possible differences betwee
 TRANSLATION
 
 Having discovered the x and y values of the deviation that the camera made from one frame to the other, we made a kernel that applies 90% of this difference to the pixels of the second frame, subtracting it from the x and y coordinates. After applying the difference, the BGR values from the second frame are saved in a new image. The pixels that are found to be outside the original frame are given a black value in BGR. This new image will be the second frame stabilized in relation to the first.
+
+
+#
+Last time the code was tested -> 01/02/2022
