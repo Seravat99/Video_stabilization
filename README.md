@@ -1,4 +1,6 @@
 # Video_stabilization
+THIS IS FOR THE FINAL WORK. LABWORKS ARE VARIOUS EXERCISES
+
 Stabilize a video with optical flow
 
 TEMPLATE MATCH
